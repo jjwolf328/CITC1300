@@ -223,6 +223,7 @@ hr {
     
     .links2 {
         display: flex;
+        flex-direction: column;
         width: fit-content;
     }
 
