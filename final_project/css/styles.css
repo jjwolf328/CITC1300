@@ -221,7 +221,7 @@ hr {
         padding: 15px;
     }
     
-    #links {
+    .links2 {
         display: flex;
         width: fit-content;
     }
